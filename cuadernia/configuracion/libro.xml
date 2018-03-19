@@ -1,0 +1,63 @@
+<fundacion alto="550" ancho="775" scorm="0">
+  <pagina locked="0" id="1">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Objetos/[_2_]estrella_fugaz.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="196" ancho_px="449" alto="100" ancho="100" rotation="0" posy="109" posx="148" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="48" COLOR="#00FFFF" LETTERSPACING="0" KERNING="1">FUNDAMENTOS DE ROBÓTICA EDUCATIVA<FONT COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="77" ancho_px="436" alto="100" ancho="100" rotation="0" posy="384" posx="298" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="RIGHT"><FONT FACE="Arial Black" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>Elaborado por: Rubén Berrocal Chacón</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="RIGHT"><FONT FACE="Arial Black" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1"><B>Marzo 2018</B></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="1b"/>
+  <pagina locked="0" id="2">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/cuadernia/[_2_]robot-humanoide.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="43.01" ancho_px="335" alto="100" ancho="100" rotation="0" posy="25" posx="421" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="24" COLOR="#0000FF" LETTERSPACING="0" KERNING="1"><B>Introducción a Robótica</B><FONT SIZE="12" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="391" ancho_px="308" alto="100" ancho="100" rotation="0" posy="102" posx="432" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>La robótica es una ciencia que apareció en los años 60, y es actualmente un concepto de</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>dominio público y de gran interés para la comunidad educativa. En sus inicios, esta ciencia era solo</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>cosa de expertos, ingenieros y técnicos, ya que aún no se tenían muchos conocimientos sobre el</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>tema ni la tecnología necesaria para aprovechar sus posibilidades. Hoy en día los avances de la</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>tecnología en campos como la informática, electrónica y mecánica, hacen posible que la robótica</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>esté al alcance de todos. Existen incluso kits orientados exclusivamente a niños que permiten crear</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>robots con características similares a las que tendría uno creado en un laboratorio tecnológico, pero</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>de una forma más fácil y sencilla, y con aplicaciones en la educación.</B></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="2b"/>
+  <pagina locked="0" id="3">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/cuadernia/Los_climasRealidadAumentada/fondos/[_2_]U9_indice_lucas.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="Robótica" flv="galeria/videos/varios/[_2_]HISTORIA DE LA ROBOTICA.mp4" alto_px="260" ancho_px="240" alto="112.31" ancho="186.25" rotation="0" posy="154" posx="103" tipo="video" src="7"/>
+  </pagina>
+  <pagina locked="0" id="3b"/>
+  <pagina locked="0" id="4">
+    <elemento colorFondo="65535" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento imagen="galeria/imagenes/cuadernia/[_2_]Club-de-robotica-2016.png" alto_px="591" ancho_px="1772" alto="16.08" ancho="13.77" rotation="0" posy="-2" posx="490" tipo="imagen" src="1"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="69" ancho_px="477" alto="100" ancho="100" rotation="0" posy="37" posx="17" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="48" COLOR="#000000" LETTERSPACING="0" KERNING="1"><B>Fundamentos de</B><FONT SIZE="72"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="320.01" ancho_px="660" alto="100" ancho="100" rotation="0" posy="165" posx="50" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="22" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>Al escuchar las palabras “Robótica” o “Robot”, lo primero que se viene a la mente es algún</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="22" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>aparato electrónico con partes mecánicas y con tecnología informática, con una apariencia rústica,</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="22" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>extraña y quizás graciosa. Muchas películas y juguetes hacen uso de esta noción, y muestra un</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="22" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>concepto futurista. En otros ámbitos más simples, un robot se visualiza como una prótesis o una</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="22" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>herramienta de trabajo, y para los menos soñadores, hasta como una refrigeradora.</B><FONT SIZE="12"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="4b"/>
+  <pagina locked="0" id="5">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/cuadernia/[_2_]robotica_mercado_2017-2021.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="120" ancho_px="328" alto="100" ancho="100" rotation="0" posy="21" posx="40" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="36" COLOR="#33FFFF" LETTERSPACING="0" KERNING="1"><B>La robótica en la actualidad</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="363" ancho_px="312" alto="100" ancho="100" rotation="0" posy="138" posx="32" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="16" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">En la actualidad, los robots comerciales e industriales son ampliamente utilizados, y realizan</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="16" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">tareas de forma más exacta o más barata que los humanos. También se les utiliza en trabajos</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="16" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">demasiado sucios, peligrosos o tediosos para los humanos. Los robots son empleados en plantas de</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="16" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">manufactura, montaje y embalaje, en transporte, en exploraciones en la Tierra y en el espacio,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="16" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">cirugía, armamento, investigación en laboratorios y en la producción en masa de bienes industriales</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="16" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="1">o de consumo.</FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="5b"/>
+  <pagina locked="0" id="6">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/cuadernia/[_2_]image_content_6324863_20170403072542.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="112.01" ancho_px="405" alto="100" ancho="100" rotation="0" posy="-1" posx="36" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="36" COLOR="#0000FF" LETTERSPACING="0" KERNING="1">Las tres leyes de la robótica<FONT SIZE="12" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="311" ancho_px="420" alto="100" ancho="100" rotation="0" posy="228" posx="19" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="1"><B>Ley Uno:</B> Un robot no puede hacer daño a un ser humano o, por inacción, permitir que un ser humano sufra daño.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="1"><B>Ley Dos:</B> Un robot debe obedecer las órdenes dadas por los seres humanos, excepto si estas órdenes entrasen en conflicto con la Primera Ley.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="1"><B>Ley Tres:</B> Un robot debe auto-protegerse siempre que su protección no entre en conflicto con una ley de orden mayor.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="1">Durante el desarrollo de la trama de uno de los libros de Asimov22, el personaje R. Daneel Olivaw crea la Ley Cero de la robótica, luego de una discusión con uno de sus colegas. Esta ley quedaría definida así:</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="1"><B>Ley Cero:</B> Un robot no puede lastimar a la humanidad o, por falta de acción, permitir que la humanidad sufra daños.</FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="6b"/>
+  <pagina locked="0" id="7">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/cuadernia/Los_climasRealidadAumentada/fondos/[_2_]U9_introduduccion_lucas.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/emparejar.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="0" posx="0" tipo="actividad" src="3">
+      <actividad id="9" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="Las tres Leyes de la Robótica"/>
+          <instrucciones name="instrucciones"><![CDATA[Asocie cada palabra con su concepto.]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="60" intentos="3"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" nParejas="3"/>
+          <pareja name="pareja" texto1="Ley Uno" texto2="Un robot no puede hacer daño a un ser humano."/>
+          <pareja name="pareja" texto1="Ley Dos" texto2="Un robot debe obedecer las órdenes de humanos."/>
+          <pareja name="pareja" texto1="Ley Tres" texto2=" Un robot debe auto-protegerse."/>
+          <pareja name="pareja" texto1="" texto2=""/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="Excelente"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/cuadernia/Los poliedros/[_2_]correcto.mp3"/>
+          <msgFallo name="msgFallo" texto="Vuelvelo a intentar"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/cuadernia/Los poliedros/[_2_]incorrecto.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+</fundacion>
