@@ -1,0 +1,92 @@
+<fundacion alto="550" ancho="775" scorm="0">
+  <pagina locked="0" id="1">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/PeligrosWEB/[_2_]hacker_pirata_informatico_ordenador_620x350.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="150.51" ancho_px="324" alto="100" ancho="100" rotation="-0.07" posy="380" posx="194" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="OldNewspaperTypes" SIZE="48" COLOR="#000099" LETTERSPACING="0" KERNING="1">Peligros en </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="OldNewspaperTypes" SIZE="48" COLOR="#000099" LETTERSPACING="0" KERNING="1">Internet<FONT SIZE="72"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="1b"/>
+  <pagina locked="0" id="2">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="146.4" ancho_px="711" alto="100" ancho="100" rotation="0" posy="78" posx="46" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Para evitar los peligros que se encuentra latente en Internet es necesario conocerlos, por eso realizamos una recopilación de estos peligros para que puedas adoptar medidas preventivas y también aconsejar a los menores. Internet ofrece grandes ventajas y herramientas, pero para disfrutar de estos beneficios, deberás evitar los aspectos negativos.<FONT FACE="Verdana" SIZE="12"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/PeligrosWEB/[_2_]tecnologia.jpg" alto_px="172" ancho_px="293" alto="153.03" ancho="129.36" rotation="0" posy="216" posx="188" tipo="imagen" src="1"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="32" ancho_px="740" alto="100" ancho="100" rotation="0" posy="16" posx="18" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="18" COLOR="#0000CC" LETTERSPACING="0" KERNING="1"><B>PELIGROS EN LA WEB</B><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="2b"/>
+  <pagina locked="0" id="3">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento forma="galeria/formas/f20.swf" rellenar="false" colorear="204" alto_px="70" ancho_px="100" alto="530.79" ancho="750" rotation="0" posy="169" posx="9" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="239.6" ancho_px="467" alto="100" ancho="100" rotation="0" posy="250" posx="150" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Malicious Software. El objetivo de este tipo de aplicaciones es dañar la computadora. En la mayoría de los casos, la infección ocurre por “errores” realizados por los usuarios, al ser engañados por el atacante. Existen muchas herramientas (antivirus, antispyware) y buenas prácticas, que reducen el riesgo de infección, ante todas las variantes de códigos maliciosos: virus, gusanos, troyanos, spyware, etc. La diferencia entre estas variantes radica en la forma en que se distribuyen: algunas veces se aprovechan de sistemas vulnerables y otras de usuarios no precavidos.</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="58.4" ancho_px="752" alto="100" ancho="100" rotation="0" posy="49" posx="8" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="26" COLOR="#0000CC" LETTERSPACING="0" KERNING="1"><B>MALWARE</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/PeligrosWEB/[_2_]pc-virus.jpg" alto_px="300" ancho_px="300" alto="41.6" ancho="48.34" rotation="0" posy="25" posx="578" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="3b"/>
+  <pagina locked="0" id="4">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="98" ancho_px="748" alto="100" ancho="100" rotation="0" posy="20" posx="10" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="48" COLOR="#FF3300" LETTERSPACING="0" KERNING="1"><B>SPAM</B><FONT SIZE="28"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento forma="galeria/formas/f2.swf" rellenar="false" colorear="16724736" alto_px="73" ancho_px="100" alto="537.27" ancho="745" rotation="0" posy="144" posx="12" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="212" ancho_px="451" alto="100" ancho="100" rotation="0" posy="267" posx="145" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="18" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">El spam es el famoso “correo basura”. Son aquellos mensajes que no fueron solicitados por el usuario y que llegan a la bandeja de entrada. Normalmente, este tipo de correos contienen propagandas – muchas veces engañosas – que incitan al usuario a ingresar a páginas, con ofertas “milagrosas”, cuyo contenido es potencialmente dañino para el usuario.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"> </FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/PeligrosWEB/[_2_]spam.jpg" alto_px="267" ancho_px="300" alto="42.03" ancho="49.34" rotation="0" posy="53" posx="546" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="4b"/>
+  <pagina locked="0" id="5">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="47" ancho_px="755" alto="100" ancho="100" rotation="0" posy="29" posx="7" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="28" COLOR="#009900" LETTERSPACING="0" KERNING="0"><B>Ciberacoso</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="28" COLOR="#009900" LETTERSPACING="0" KERNING="0"><B> </B><FONT SIZE="10" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento forma="galeria/formas/f5.swf" rellenar="false" colorear="52275" alto_px="99" ancho_px="54" alto="100" ancho="100" rotation="0" posy="354" posx="16" tipo="forma" src="4"/>
+    <elemento forma="galeria/formas/f5.swf" rellenar="false" colorear="3394611" alto_px="99" ancho_px="54" alto="100" ancho="100" rotation="0" posy="128" posx="14" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="62" ancho_px="751" alto="100" ancho="100" rotation="0" posy="288" posx="9" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="28" COLOR="#009900" LETTERSPACING="0" KERNING="1"><B>Grooming</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="137" ancho_px="667" alto="100" ancho="100" rotation="0" posy="118" posx="91" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Es una conducta hostil que puede ser practicada virtualmente. La víctima de este tipo de acosos, es sometida a amenazas y humillaciones de parte de sus pares en la web, cuyas intenciones son atormentar a la persona y llevarla a un quiebre emocional. Estas prácticas pueden ser realizadas a través de Internet, así como también, teléfonos celulares y videoconsolas. También denominado en inglés, cyberbullying, no siempre son realizadas por adultos, sino también son frecuentes entre adolescentes y niños.</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="106.41" ancho_px="670" alto="100" ancho="100" rotation="0" posy="362" posx="88" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="0">Se trata de la persuasión de un adulto hacia un niño, con la finalidad de obtener una conexión emocional y generar un ambiente de confianza para que el niño realice actividades sexuales. Muchas veces los adultos se hacen pasar por niños de su edad e intentan entablar una relación para, luego, buscar realizar encuentros personales.</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/PeligrosWEB/[_2_]Peligros-de-las-Redes-Sociales.jpg" alto_px="183" ancho_px="276" alto="42.3" ancho="43.48" rotation="0" posy="17" posx="619" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/PeligrosWEB/[_2_]peligros.png" alto_px="529" ancho_px="1000" alto="14.03" ancho="11.7" rotation="0" posy="451" posx="590" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="5b"/>
+  <pagina locked="0" id="6">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="99" ancho_px="746" alto="100" ancho="100" rotation="0" posy="69" posx="11" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Proviene del acrónimo formado entre Sex y Texting. Inicialmente, y como lo indica su nombre, se trataba del envío de mensajes con contenidos eróticos. Posteriormente, dado el avance tecnológico, esta modalidad evolucionó hacia el intercambio de imágenes y videos convirtiéndose en una práctica habitual entre adultos, adolescentes y niños.</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="105.2" ancho_px="750" alto="100" ancho="100" rotation="0" posy="8" posx="9" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="28" COLOR="#FF0099" LETTERSPACING="0" KERNING="1"><B>SEXTING</B><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento titulo="Sexting" flv="galeria/videos/PeligrosWEB/[_2_]sexting.mp4" alto_px="260" ancho_px="240" alto="127.24" ancho="231.25" rotation="0" posy="202" posx="116" tipo="video" src="7"/>
+  </pagina>
+  <pagina locked="0" id="6b"/>
+  <pagina locked="0" id="7">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="56" ancho_px="745" alto="100" ancho="100" rotation="0" posy="11" posx="13" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="28" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>Robo de información</B><FONT FACE="Verdana" SIZE="12"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="94.41" ancho_px="731" alto="100" ancho="100" rotation="0" posy="431" posx="24" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Toda la información que viaja por la web, sin las medidas de precaución necesarias, corre el riesgo de ser interceptada por un tercero. De igual modo, existen también ataques con esta finalidad. La información buscada, normalmente apunta a los datos personales. Un paso en falso ante este tipo de incidentes, puede exponer al menor de edad a la pérdida de dinero familiar o al robo de identidad.</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/PeligrosWEB/[_2_]phishing.jpg" alto_px="340" ancho_px="570" alto="100" ancho="100" rotation="0" posy="67" posx="90.75" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="7b"/>
+  <pagina locked="0" id="8">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/emparejar.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="9" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="Peligros en Internet"/>
+          <instrucciones name="instrucciones"><![CDATA[Relacione  el nombre con su concepto]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="-1"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" nParejas="4"/>
+          <pareja name="pareja" texto1="Sexting" texto2="Trataba de envío de mensajes con contenido erotico"/>
+          <pareja name="pareja" texto1="Malware" texto2="Acrónimo en inglés de malicious software."/>
+          <pareja name="pareja" texto1="Grooming" texto2="Trata de la persuasión de un adulto hacia un niño."/>
+          <pareja name="pareja" texto1="ciberacoso" texto2="También denominado en inglés, cyberbullying."/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="Excelente"/>
+          <sndAcierto name="sndAcierto" sonido=""/>
+          <msgFallo name="msgFallo" texto="Intenta de nuevo"/>
+          <sndFallo name="sndFallo" sonido=""/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+  <pagina locked="0" id="8b"/>
+  <pagina locked="0" id="9">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="164.41" ancho_px="721" alto="100" ancho="100" rotation="0" posy="101" posx="23" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Visita el siguiente sito web donde encontrarás un artículo sobre ¿Cómo evitar los peligros de navegar en internet?.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><A HREF="http://www.semana.com/tecnologia/articulo/consejos-para-navegar-por-internet/514785" TARGET="_blank"><U>http://www.semana.com/tecnologia/articulo/consejos-para-navegar-por-internet/514785</U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="90.8" ancho_px="408" alto="100" ancho="100" rotation="0" posy="30" posx="180" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="28" COLOR="#CC00CC" LETTERSPACING="0" KERNING="1"><B>Actividad Complementaria</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento forma="galeria/formas/f3.swf" rellenar="true" colorear="13369548" alto_px="99" ancho_px="100" alto="100" ancho="100" rotation="0" posy="296" posx="326.5" tipo="forma" src="4"/>
+    <elemento imagen="galeria/imagenes/PeligrosWEB/[_2_]3CA.jpg" alto_px="400" ancho_px="600" alto="24.1" ancho="22.5" rotation="0" posy="271" posx="42" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/PeligrosWEB/[_2_]peligrosInternet.jpg" alto_px="426" ancho_px="640" alto="24.51" ancho="23.6" rotation="0" posy="419" posx="470" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/PeligrosWEB/[_2_]shutterstock_266430095.jpg" alto_px="629" ancho_px="940" alto="16.16" ancho="14.47" rotation="0" posy="274" posx="585" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/PeligrosWEB/[_2_]Proteja-hijos-peligros-Internet-FotoDreamstime_MEDIMA20150509_0052_24.jpg" alto_px="357" ancho_px="635" alto="28.74" ancho="27.41" rotation="0" posy="420" posx="122" tipo="imagen" src="1"/>
+  </pagina>
+</fundacion>
